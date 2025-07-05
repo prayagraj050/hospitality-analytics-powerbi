@@ -46,7 +46,7 @@ Identified seasonal patterns in revenue and occupancy to better manage staffing,
 - Filters by: Property, Country, Date
 - Visuals: Line charts, bar graphs, maps, slicers
 
-> ![Dashboard Screenshot](images/dashboard.png)
+> ![Dashboard Screenshot](images/Screenshot 2025-07-05 144504.png)
 
 ---
 

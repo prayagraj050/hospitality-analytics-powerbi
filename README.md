@@ -47,7 +47,7 @@ Identified seasonal patterns in revenue and occupancy to better manage staffing,
 - Visuals: Line charts, bar graphs, maps, slicers
 
 > ![Dashboard Screenshot](images/Screenshot 2025-07-05 144504.png)
-
+> images/Screenshot 2025-07-05 144504.png
 ---
 
 
